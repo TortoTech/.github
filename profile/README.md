@@ -25,7 +25,6 @@
 | [torto-web](https://github.com/TortoTech/torto-web) | Web 端：打开浏览器即可阅读，支持 AI 阅读、翻译与 WebDAV 云同步 |
 | [rebook](https://github.com/TortoTech/rebook) | 跨平台电子书解析与阅读内核 |
 | [rebook-service](https://github.com/TortoTech/rebook-service) | 账号、云端书架与可选 AI 服务 |
-| [tortotech.github.io](https://github.com/TortoTech/tortotech.github.io) | 官方网站（Astro + Starlight，中英双语） |
 
 ## Projects
 
@@ -35,4 +34,3 @@
 | [torto-web](https://github.com/TortoTech/torto-web) | Web: read right in the browser, with AI reading, translation and WebDAV sync |
 | [rebook](https://github.com/TortoTech/rebook) | Cross-platform ebook parsing and reading kernel |
 | [rebook-service](https://github.com/TortoTech/rebook-service) | Accounts, cloud bookshelf and optional AI services |
-| [tortotech.github.io](https://github.com/TortoTech/tortotech.github.io) | Official website (Astro + Starlight, zh-CN / en) |
