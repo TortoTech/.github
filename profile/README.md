@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TortoTech/tortotech.github.io/main/public/images/logo.png" width="112" height="112" alt="Torto logo">
+  <img src="https://raw.githubusercontent.com/TortoTech/torto/main/assets/windows/torto-128.png" width="112" height="112" alt="Torto logo">
 </p>
 
 <h1 align="center">Torto 小龟阅读</h1>
